@@ -1,6 +1,6 @@
 🧑‍💻 Gabriel Lucas
 
-** Desenvolvedor De Analista de Dados **
+** Analista de Dados **
 
 🚀 Olá! Sou Gabriel Lucas, tenho 22 anos e sou natural da Paraíba. Sou técnico em informática (CPM) e atualmente graduando em **Ciência da Computação** pela Unipe. 
 
