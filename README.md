@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://gabriellucas.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-gabriellucas.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
   <a href="https://linkedin.com/in/gabriellucasdados"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:gabrielbandeira2527@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <a href="https://adm4all.extensao-fs.com.br"><img src="https://img.shields.io/badge/ADM4All-em%20produ%C3%A7%C3%A3o-22C55E?style=for-the-badge" alt="ADM4All em produção" /></a>
@@ -18,9 +19,12 @@ Na **Fábrica de Software do Unipê** fui o segundo maior contribuidor do
 em setembro de 2026 e que está em produção. Hoje atuo no **BemEstar60+** (React Native) e no
 **Jogos Empresariais** (Django).
 
+🌐 Portfólio com estudos de caso: **[gabriellucas.vercel.app](https://gabriellucas.vercel.app)**
+
 ```ts
 const gabriel = {
   cargo: "Desenvolvedor Full-Stack",
+  portfolio: "https://gabriellucas.vercel.app",
   local: "João Pessoa, PB",
   formacao: "Ciência da Computação @ Unipê (2023–2027)",
   fabrica: "2 ciclos na Fábrica de Software do Unipê · 432 h certificadas",
@@ -61,9 +65,9 @@ const gabriel = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 Plataforma de cursos de extensão com três perfis: coordenador, instrutor e aluno.
-**96 endpoints REST · 20 tabelas · 10 use-cases · arquitetura limpa · JWT · Jest + Playwright.**
-Segundo maior contribuidor do repositório, com 47 commits em banco, backend e frontend.
-Concluído em setembro de 2026.
+**96 endpoints REST · 18 tabelas · arquitetura limpa · JWT · Jest + Playwright.**
+Segundo maior contribuidor do repositório, com 50 commits em banco, backend e frontend.
+Concluído em setembro de 2026. [Estudo de caso](https://gabriellucas.vercel.app/projetos/adm4all) · [código](https://github.com/DevGabriellucas/FS_ADM4ALL)
 
 ### 🌱 [EcoHub](https://github.com/DevGabriellucas/Eco_JP) · denúncias ambientais na Paraíba
 
@@ -73,9 +77,10 @@ Concluído em setembro de 2026.
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-App com mapa, geolocalização e conformidade com a LGPD. **149 testes unitários, 23 testes de
+App com mapa, geolocalização e conformidade com a LGPD. **149 testes unitários, 24 testes de
 regras do Firestore e CI/CD no GitHub Actions.** Autor principal (33 de 36 commits). Inscrito no
 Prêmio de Inovação CSED 2026 e em piloto com um escritório de advocacia.
+[Estudo de caso](https://gabriellucas.vercel.app/projetos/ecohub)
 
 ### 🧩 [Gestor Acadêmico](https://github.com/estermarreiro/gestor-academico) · backend distribuído
 
@@ -90,23 +95,30 @@ Gateway HTTP e microserviços TCP por domínio, com cache, mensageria, WebSocket
 Contribuí com os módulos de avaliação e presença, CRUD e testes de aula e matrícula, Swagger e a
 camada de cache.
 
-### 🧁 Patrícia S. Araújo Cake · landing page para cliente real
+### 👵 [BemEstar60+](https://github.com/DevGabriellucas/FS_BemEstar60Mais) · app de saúde para o público 60+ · em andamento
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-Mobile-first, com cardápio filtrável, pedidos via WhatsApp com mensagem pronta e SEO. O conteúdo
-fica em arquivos de dados para a cliente editar sem mexer no código.
+App mobile em equipe na Fábrica de Software, com PO e cliente real. Atuei no ciclo 2025.2 (requisitos, telas e
+revisão de código) e sigo no projeto no ciclo 2026.2.
 
-### 🌐 [Servidor Web em Sockets](https://github.com/DevGabriellucas/servidor-web-simples) · HTTP do zero
+### 🎮 [Jogos Empresariais](https://github.com/DevGabriellucas/FS_Jogos_Empresariais) · simulações empresariais · em andamento
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Plataforma web de jogos e simulações empresariais com Django REST Framework e PostgreSQL. Projeto que estou
+desenvolvendo agora, no ciclo 2026.2 da Fábrica de Software.
+
+### 🌵 [BancoMatuto](https://github.com/DevGabriellucas/BancoMatuto_Python) · sistema bancário desktop
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-Servidor HTTP sobre TCP/Sockets com respostas 200/404 e análise de tráfego no Wireshark
-(cabeçalhos, versões do protocolo e cache condicional 304).
+Aplicação bancária em Python com interface Tkinter: login, depósito, saque, transferência e consulta de saldo.
+Projeto acadêmico em equipe.
 
 ## 📈 Atividade
 
