@@ -13,9 +13,10 @@
 ## 👨‍💻 Sobre mim
 
 Construo aplicações web de ponta a ponta — do modelo de dados ao deploy em container.
-Na **Fábrica de Software do Unipê** sou o segundo maior contribuidor do
-**[ADM4All](https://adm4all.extensao-fs.com.br)**, sistema de gestão acadêmica em produção
-desde setembro de 2026.
+Na **Fábrica de Software do Unipê** fui o segundo maior contribuidor do
+**[ADM4All](https://adm4all.extensao-fs.com.br)**, sistema de gestão acadêmica que entregamos
+em setembro de 2026 e que está em produção. Hoje atuo no **BemEstar60+** (React Native) e no
+**Jogos Empresariais** (Django).
 
 ```ts
 const gabriel = {
@@ -24,6 +25,7 @@ const gabriel = {
   formacao: "Ciência da Computação @ Unipê (2023–2027)",
   fabrica: "2 ciclos na Fábrica de Software do Unipê · 432 h certificadas",
   destaque: "Certificado Liderança & Produtividade do Product Owner (2026.1)",
+  agora: ["BemEstar60+ (React Native)", "Jogos Empresariais (Django)"],
   stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL", "Docker"],
   buscando: "vagas full-stack ou back-end, presencial ou remoto",
 };
@@ -36,7 +38,7 @@ const gabriel = {
 </p>
 
 <p align="center"><b>Back-end e banco de dados</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mysql,redis,rabbitmq" alt="Node.js, Express, NestJS, Prisma, PostgreSQL, MySQL, Redis, RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,prisma,postgres,mysql,redis,rabbitmq" alt="Node.js, Express, NestJS, Django, Prisma, PostgreSQL, MySQL, Redis, RabbitMQ" />
 </p>
 
 <p align="center"><b>DevOps e testes</b><br/><br/>
@@ -61,6 +63,7 @@ const gabriel = {
 Plataforma de cursos de extensão com três perfis: coordenador, instrutor e aluno.
 **96 endpoints REST · 20 tabelas · 10 use-cases · arquitetura limpa · JWT · Jest + Playwright.**
 Segundo maior contribuidor do repositório, com 47 commits em banco, backend e frontend.
+Concluído em setembro de 2026.
 
 ### 🌱 [EcoHub](https://github.com/DevGabriellucas/Eco_JP) · denúncias ambientais na Paraíba
 
