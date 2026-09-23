@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil! Sou um profissional apaixonado por transformar dados em
 ## 🎯 Sobre Mim
 
 - 🎓 Graduando em **Ciência da Computação** pela Unipê
-- - 📍 Sou natural da Paraíba | Localizado em São Paulo, Brasil
+- - 📍 Sou natural da Paraíba | Localizado em Joao Pessoa, Brasil
   - - 💡 Especializado em transformar dados brutos em decisões inteligentes
     - - 🚀 Apaixonado por tecnologia, inovação e resolução de problemas
      
